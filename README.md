@@ -1,11 +1,11 @@
 
-### Hey There, I'm Mani. 👋
+### Hey There, I'm Mani. 👋 <sup> (He/Him/His) </sup>
 
 ![Image Of Mani Aimlessly Scrolling GitHub On Phone During A Live Event](https://manikumar.in/images/website/socialimg.jpg)
 
-#### A Product Management Professional From India. 
+#### A Product Management Professional from India. 
 
-##### 👒 I Wear The Hats Of A Python + JAMstack Developer, Designer, Marketer, S.E.O Consultant and Automation Junkie
+##### 👒 Some Hats I Wear: Python + JAMstack Developer, Designer, Marketeer, S.E.O Consultant And Automation Junkie.
 
 I’m a passionate entrepreneur with over 5 years of experience in building & scaling initiatives. I aim to combine my insights to join and help teams collaboratively identify pain points, automate/optimize workflows and reach goals. 
 
@@ -21,12 +21,12 @@ I'm passionate about working with initiatives and teams that promote mental heal
 </details>
 
 
-#### What would you find on my GitHub? 
-- Projects and working concepts that have helped automate/optimize mundane tasks for my life as a developer.
+#### What Would You Find On My GitHub? 
+- Projects and working concepts that have helped automate/optimize mundane tasks, or test out new concepts.
 - Projects that support my work as the Co-Founder and Product Lead at [TheMindClan](https://themindclan.com), a platform that's making mental health accessible (and a personal journey) to Indians.
 
 #### What Do I Code In? 💻
-Any language that I can pick up, to help the teams of various projects I'm part of. My first preference would be Python (FastAPI/Flask/Django)  & Hugo with whichever front-end framework that works for the project. I've got a soft corner for [tailwind](https://tailwindcss.com/) and [bootstrap](https://getbootstrap.com/). 
+I try learn any language that can help the teams of various projects I'm part of. My first preference would be Python (FastAPI/Flask/Django)  & Hugo with whichever front-end framework that works for the project. I've got a soft corner for [Tailwind](https://tailwindcss.com/) and [bootstrap](https://getBootstrap.com/) (*SUPER* pumped for version 5 btw). 
 
 #### Some Projects I've Worked On: 
 - [Hugon](https://github.com/hithismani/hugon): Python script that simplifies working with archetypes in Hugo. Enables bulk markdown file creation/editing via a single .csv! 
@@ -40,7 +40,7 @@ Any language that I can pick up, to help the teams of various projects I'm part 
 - I can be your resident entrepreneur, working with you to solve any challenge you're experiencing. 
 - I can help you find out ways to automate the tasks you didn't know needed automation.
 - I can help you adopt the best ~~agile strategies for your product~~ cat/dog for your mental health. _(Just kidding, I can help you with both)_
-- Opening your perspective on how having women in tech/positions of power can actually help you and the overall ecosystem.
+- Opening your perspective on how having womxn (and intersectional representation) in tech/positions of power can actually help you and the overall ecosystem.
 
 #### Open Source Projects That Have Caught My Eye: 👀
 - [n8n.io](https://n8n.io/): Doing to task automation, what [Mautic](https://www.mautic.org/) has done to email marketing.

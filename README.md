@@ -5,7 +5,7 @@
 
 #### A Product Management Professional from India. 
 
-##### 👒 Some Hats I Wear: Python + JAMstack Developer, Designer, Marketeer, S.E.O Consultant And Automation Junkie.
+##### 👒 Some Hats I Wear: Python + JAMstack + [FARM](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB) Stack Developer, Designer, Marketeer, S.E.O Consultant And Automation Junkie.
 
 I’m a passionate entrepreneur with over 5 years of experience in building & scaling initiatives. I aim to combine my insights to join and help teams collaboratively identify pain points, automate/optimize workflows and reach goals. 
 
@@ -31,7 +31,7 @@ I try learn any language that can help the teams of various projects I'm part of
 #### Some Projects I've Worked On: 
 - [Hugon](https://github.com/hithismani/hugon): Python script that simplifies working with archetypes in Hugo. Enables bulk markdown file creation/editing via a single .csv! 
 - [SwitchCase.xyz](https://github.com/hithismani/switchcase): Text/sentence conversion into random, sentence, capital, upper, lower, slug case including illegal case removal! Privacy friendly, quick, free and open source!
-- [SyncWP](https://github.com/hithismani/syncwp): CLI script to migrate a PHP/Wordpress site from your local non/docker machine to a WPCLI + SSH enabled server. Seeks commands via a .YAML config file.
+- [SyncWP](https://github.com/hithismani/syncwp): CLI script to migrate a PHP/Wordpress site from your local non/docker machine to a WPCLI + SSH enabled server. Seeks commands via a .YAML config file. Of course, this was before I moved almost all projects to JAMstack on [Netlify.](https://netlify.com)
 - [File2Drive](https://github.com/hithismani/file2drive):  Experimental script to transfer all files straight into another folder (eg: OneDrive, DropBox, System) using Python. Useful for automating font backups.
 - [PicToSquare](https://github.com/hithismani/pictosquare): Experimental script that uses Python to enter a directory and make pictures “Instagram Ready” by framing them up into a no-crop square. 
 - [PowFile](https://github.com/hithismani/powfile):  Quick script to help switch up Windows Powershell profile files or reset them back to normal. Useful for live demos & shell recording sessions.

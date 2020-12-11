@@ -46,9 +46,9 @@ I try learn any language that can help the teams of various projects I'm part of
 - [n8n.io](https://n8n.io/): Doing to task automation, what [Mautic](https://www.mautic.org/) has done to email marketing.
 - [Hugo](https://gohugo.io/): The fastest, easiest and most dependable static page generator out there.
 - [FastAPI](https://fastapi.tiangolo.com/): A framework for high performance, fast to code, ready for production python apps.
+- [Uppload](https://github.com/elninotech/uppload): 📁 JavaScript image uploader and editor, no backend required.
 - [dokku](dokku): A PaaS solution that brings Heroku like deployments with Docker under the hood. 
 - [DocAssemble](https://docassemble.org/): A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
-- [WordOps](https://wordops.net/): "Painless" WordPress site management. 
 
 #### A Quote I Resonate With. 🎯
 
